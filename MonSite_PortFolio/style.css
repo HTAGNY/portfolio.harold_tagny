@@ -295,11 +295,12 @@ footer .colonne p a:hover {
 
 
 	footer {
-		justify-content: flex-start;
+		justify-content: space-between;
+		padding: 20px;
 	}
+
 	footer .colonne {
 		text-align: center;
-		margin-left: 5%;
 	}
 
 	footer .colonne h3{
